@@ -23,7 +23,7 @@ lose a ship. If the players lose three ships, the game ends.
 - Python 3.x
 - Pygame
 
-## How to play the game
+## How to play
 - Run `alien_invaders.py` (i.e. `python3 alien_invaders.py`)
 
 ---------------
